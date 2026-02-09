@@ -47,7 +47,7 @@
 ---
 
 ## 🏁 Toy Projects
-* **GNUV 시스템** | [[🔍 프로젝트 보러가기](https://gnuv.kr/intro)] - 2026.01이후 잠시 배포 중지 예정
+* **GNUV 시스템** |  - 2026.01이후 잠시 배포 중지 예정
     * **설명**: 경상국립대학교 강의실 예약 및 팀 프로젝트 매칭 시스템
     * **기술**: `Java`, `Spring Boot`, `HTML/CSS`, `AWS Deployment`
 * **ACMD** | [[📊 시트 보러가기](https://docs.google.com/spreadsheets/d/158J2LoYfFrXEmvpEiirQUopdJEtyH6n4cNwqPp138Io/edit?gid=2016046688#gid=2016046688)]
