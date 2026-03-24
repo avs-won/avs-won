@@ -53,6 +53,10 @@
 * **ACMD** | [[📊 시트 보러가기](https://docs.google.com/spreadsheets/d/158J2LoYfFrXEmvpEiirQUopdJEtyH6n4cNwqPp138Io/edit?gid=2016046688#gid=2016046688)]
     * **설명**: 아세토코르사(Assetto Corsa) 모드 정리 및 관리 시트
     * **기술**: `Google Sheets`
+* **CLUB SSUTOKO WEB** | 심레이싱 아세토코르사 웹사이트 프로젝트
+    * **URL** : https://clubssutoko.vercel.app/
+    * **설명**: 아세토코르사(Assetto Corsa) 각종 레이스 세션 관리 및 리더보드 시각화
+    * **기술**: `Python` `Flask`
 
 ---
 
